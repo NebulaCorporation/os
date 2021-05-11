@@ -182,7 +182,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #7800af;
   text-align: left;
   background-color: #fff;
 }
@@ -10429,8 +10429,6 @@ body {
 #timeline {
   padding: 100px 0;
   background: #7800af;
-  border-top: 1px solid rgba(191, 191, 191, 0.4);
-  border-bottom: 1px solid rgba(191, 191, 191, 0.4);
 }
 #timeline h1 {
   text-align: center;
