@@ -182,7 +182,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #7800af;
+  color: black;
   text-align: left;
   background-color: #fff;
 }
@@ -10391,9 +10391,9 @@ body {
     content: "";
     width: 9px;
     height: 9px;
-    background-color: #7800af;
+    background-color: #000000;
     border-radius: 9px;
-    box-shadow: 0px 0px 2px 8px #f7f7f7;
+    box-shadow: 0px 0px 0px 4px #f7f7f7;
   }
 }
 /* Some Cool Stuff */
@@ -10427,7 +10427,7 @@ body {
 }
 
 #timeline {
-  padding: 100px 0;
+  padding: 10px 0;
   background: #7800af;
 }
 #timeline h1 {
@@ -10462,11 +10462,11 @@ body {
   top: 0;
   bottom: 0;
   left: 50%;
-  border-left: 1px solid rgba(191, 191, 191, 0.4);
+  
 }
 @media (min-width: 1000px) {
   #timeline .demo-card-wrapper::after {
-    border-left: 1px solid #bdbdbd;
+    border-left: 1px solid #ffffff;
   }
 }
 #timeline .demo-card {
@@ -10479,7 +10479,6 @@ body {
 @media (min-width: 480px) {
   #timeline .demo-card {
     max-width: 60%;
-    box-shadow: 0px 1px 22px 4px rgba(0, 0, 0, 0.07);
   }
 }
 @media (min-width: 720px) {
@@ -10565,7 +10564,7 @@ body {
 }
 #timeline .demo-card .body {
   background: #fff;
-  border: 1px solid rgba(191, 191, 191, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-top: 0;
   padding: 15px;
 }
