@@ -1,0 +1,10 @@
+{
+    "name": "NebulaNotes",
+    "short_name": "Notes",
+    "description": "NebulaNotes is the private Todo List that doesn't save your info on our servers! Everything is privately stored on your machine.",
+    "start_url": "https://notes.nebulacorp.xyz",
+    "scope": "https://notes.nebulacorp.xyz",
+    "display": "standalone",
+    "orientation": "portrait",
+    "lang": "en"
+}
