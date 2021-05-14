@@ -68,9 +68,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: black;
+  color: rgb(255, 255, 255);
   text-align: left;
-  background-color: #fff;
+  background-color: #7800af;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -163,7 +163,7 @@ sup {
 }
 
 a {
-  color: #7800af;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9694,7 +9694,7 @@ h1 {
   margin: 0;
   padding: 0;
   background: none;
-  color: gray;
+  color: rgb(255, 255, 255);
   font-family: Georgia, serif;
   font-size: 1.5em;
   font-style: italic;
@@ -9710,13 +9710,13 @@ h1 {
 }
 
 .testimonial-quote blockquote p {
-  color: #75808a;
+  color: #ffffff;
   line-height: 1.4 !important;
 }
 
 .testimonial-quote blockquote p:first-child:before {
   content: '\201C';
-  color: #81bedb;
+  color: #ffffff;
   font-size: 7.5em;
   font-weight: 700;
   opacity: .3;
@@ -9728,7 +9728,7 @@ h1 {
 }
 
 .testimonial-quote img {
-  border: 3px solid #9CC1D3;
+  border: 3px solid #ffffff;
   border-radius: 50%;
   display: block;
   width: 120px;
@@ -9739,13 +9739,13 @@ h1 {
 }
 
 .testimonial-quote cite {
-  color: gray;
+  color: rgb(255, 255, 255);
   display: block;
   font-size: .8em;
 }
 
 .testimonial-quote cite span {
-  color: #5e5e5e;
+  color: #ffffff;
   font-size: 1em;
   font-style: normal;
   font-weight: 700;
@@ -9775,6 +9775,8 @@ h1 {
 .testimonial-quote.right cite {
   text-align: right;
 }
+
+/*preloader*/
 
 .loader_bg{
   position: fixed;
