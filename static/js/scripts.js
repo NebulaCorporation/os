@@ -211,5 +211,5 @@ const touchSlide = (() => {
     slider.addEventListener("touchend", mobile)
 })()
 
-/*reviews*/
+/*download button*/
 
