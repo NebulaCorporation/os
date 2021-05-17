@@ -10192,6 +10192,9 @@ body .container1 .button {
     margin: 12px;
   }
 }
+.container1 a{
+color: yellow;
+}
 
 /*footer*/
 
